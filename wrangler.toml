@@ -1,0 +1,8 @@
+name = "quiz-app"
+compatibility_date = "2025-07-19"
+
+# D1 Database configuration
+[[d1_databases]]
+binding = "DB"
+database_name = "quiz-app-db"
+database_id = "c6e07420-2071-460f-903c-187c1e6552bd"
